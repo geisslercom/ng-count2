@@ -1,6 +1,6 @@
 {
   "name": "ng-count2",
-  "main": "ng-count2.js",
+  "main": "dist/ng-count2.min.js",
   "authors": [
     "Benjamin Geißler <b.geissler89@googlemail.com>"
   ],
@@ -11,8 +11,8 @@
     "directives",
     "counter"
   ],
-  "license": "MIT",
-  "homepage": "geissler-com.de",
+  "license": "GNU",
+  "homepage": "https://geissler-com.de",
   "ignore": [
     "**/.*",
     "node_modules",
