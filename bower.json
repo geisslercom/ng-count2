@@ -1,0 +1,23 @@
+{
+  "name": "ng-count2",
+  "main": "ng-count2.js",
+  "authors": [
+    "Benjamin Geißler <b.geissler89@googlemail.com>"
+  ],
+  "description": "Very simple Upcounter as angular directive",
+  "moduleType": [],
+  "keywords": [
+    "angular",
+    "directives",
+    "counter"
+  ],
+  "license": "MIT",
+  "homepage": "geissler-com.de",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
